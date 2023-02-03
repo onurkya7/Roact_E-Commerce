@@ -73,6 +73,8 @@ Satıcı Gereksinimleri
 
 ![WhatsApp Image 2023-02-01 at 13 24 07 (1)](https://user-images.githubusercontent.com/100594545/216579654-af1a5f2b-6825-4d40-bd59-416de8fabd70.jpeg)
 
+![WhatsApp Image 2023-02-01 at 13 24 08 (1)](https://user-images.githubusercontent.com/100594545/216581026-07ebdf57-a63c-4597-bfb4-04ab6c22fb13.jpeg)
+
 ![WhatsApp Image 2023-02-01 at 13 24 08](https://user-images.githubusercontent.com/100594545/216579648-5a2668bd-49a9-4113-aa30-3fa47301499e.jpeg)
 
 ![WhatsApp Image 2023-02-01 at 13 24 08 (3)](https://user-images.githubusercontent.com/100594545/216579659-07b23f0b-e56e-4746-b0d4-5127f2da3529.jpeg)
