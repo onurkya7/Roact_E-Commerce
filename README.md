@@ -67,6 +67,22 @@ Satıcı Gereksinimleri
 
 - https://discord.gg/XWsh2d4E
 
+## Proje Arayüz
+
+![WhatsApp Image 2023-02-01 at 13 24 07](https://user-images.githubusercontent.com/100594545/216579656-1b378cb7-6d44-42d7-80fa-8f9a4969a7f1.jpeg)
+
+![WhatsApp Image 2023-02-01 at 13 24 07 (1)](https://user-images.githubusercontent.com/100594545/216579654-af1a5f2b-6825-4d40-bd59-416de8fabd70.jpeg)
+
+![WhatsApp Image 2023-02-01 at 13 24 08](https://user-images.githubusercontent.com/100594545/216579648-5a2668bd-49a9-4113-aa30-3fa47301499e.jpeg)
+
+![WhatsApp Image 2023-02-01 at 13 24 08 (3)](https://user-images.githubusercontent.com/100594545/216579659-07b23f0b-e56e-4746-b0d4-5127f2da3529.jpeg)
+
+![WhatsApp Image 2023-02-01 at 13 24 08 (2)](https://user-images.githubusercontent.com/100594545/216579673-d5368fe9-6d59-41f6-9c11-5ce4f2aa6101.jpeg)
+
+![WhatsApp Image 2023-02-01 at 13 24 09](https://user-images.githubusercontent.com/100594545/216579672-5f5c2a68-300d-46a8-afc2-84124c038dc2.jpeg)
+
+![WhatsApp Image 2023-02-01 at 13 24 09 (1)](https://user-images.githubusercontent.com/100594545/216579668-cffaa93e-c354-4f60-b795-1b34d4b3d83e.jpeg)
+
 ## 
 
 - React projesi oluşturma 
